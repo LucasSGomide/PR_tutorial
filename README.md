@@ -23,7 +23,7 @@ Desta forma, para evitar que novos conteúdos sejam disponibilizados com erro pa
 
 ![Abertura](./00_ABERTURA.png)
 
-- Verifique se a branch `master` do repositório está sendo "comparada" com a sua branch.
+- Verifique se a _branch master_ do repositório está sendo "comparada" com a sua branch.
 
 ![Verificando Branches](./01_COMPARACAO.png)
 
@@ -45,7 +45,7 @@ Desta forma, para evitar que novos conteúdos sejam disponibilizados com erro pa
 ![Link para Issue](./05_CLOSES.png)
 
 - Adicione a pessoa resposável ou as pessoas responsáveis (_"Assignees"_) pela terefa.
-  - A pessoa resposnsável pode ser somente você, ou pode ser também, a equipe que compõe a "sprint".
+  - A pessoa responsável pode ser somente você, ou pode ser também, a equipe que compõe a "sprint".
 
 ![Link para Issue](./07_ASSIGNEES.png)
 
@@ -87,4 +87,4 @@ Crie seu pull request como _draft pull request_.
 
 ![Link para Issue](./03_ASPECTO_FINAL.png)
 
-- Quando seu pull request tiver duas aprovações nos repositórios `course` e `trybe`, o `merge` da `branch` poderá ser realizado.
+- Quando seu pull request tiver duas aprovações nos repositórios `course` e `trybe`, o _merge_ da _branch_ poderá ser realizado.
